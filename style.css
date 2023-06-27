@@ -9,16 +9,16 @@ body {
 
 .main-wrapper {
 	margin: 30px auto 0;
-	width: 1080px;
+	width: 1020px;
 	text-align: center;
 }
 
 .main-title {
-	font-family: 'Pacifico', cursive;
+	font-family: sans-serif;
 	text-align: center;
 	font-size: 3.2em;
-	color: #cb2026;
-	text-shadow: 1px 1px 1px #5a0b0d;
+	color: blue;
+	text-shadow: 1px 1px 10px green;
 }
 
 .drum-kit-wrapper {
